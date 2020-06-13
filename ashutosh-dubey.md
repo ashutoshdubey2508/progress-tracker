@@ -4,7 +4,7 @@
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|andrew ng course ||
+|1|task 1-Boston housing prizes||https://colab.research.google.com/drive/1z6F_fKKeczle-XRhiyO6AvaQc8c124Uz?usp=sharing
 |2|||
 |3|||
 |4|||
